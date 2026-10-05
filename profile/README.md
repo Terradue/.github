@@ -13,7 +13,7 @@
 ### Terradue Extensions
 
 | Project | What it provides |
-| --- | --- | --- |
+| --- | --- |
 | [aeronet-stac-extension](https://github.com/Terradue/aeronet-stac-extension) | Aeronet Extension Specification |
 
 ### pystac Implementations
