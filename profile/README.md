@@ -1,6 +1,6 @@
 # Terradue's OpenSource repository
 
-Browse te [repositories](https://terradue.github.io/).
+Browse the [repositories](https://terradue.github.io/).
 
 - [CLI Tools](#cli-tools)
 - [VS Code extensions](#vs-code-extensions)
