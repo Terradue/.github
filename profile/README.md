@@ -15,6 +15,7 @@
 | Project | What it provides |
 | --- | --- |
 | [aeronet-stac-extension](https://github.com/Terradue/aeronet-stac-extension) | Aeronet Extension Specification |
+| [stac-extensions-disaster](https://github.com/Terradue/stac-extensions-disaster) | Disasters Charter Extension Specification |
 
 ### pystac Implementations
 
