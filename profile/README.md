@@ -92,7 +92,7 @@ Browse the [repositories](https://terradue.github.io/).
 
 | Project | What it provides | Documentation |
 | --- | --- | --- |
-| [transpiler-mate](https://github.com/Terradue/transpiler-mate) | Python API + CLI to extract Schema.org/SoftwareApplication Metadata from an annotated CWL document. | [Docs](https://terradue.github.io/transpiler-mate/) |
+| [transpiler-mate](https://github.com/Terradue/transpiler-mate) | Python API + CLI to extract `Schema.org/SoftwareApplication` Metadata from an annotated CWL document. | [Docs](https://terradue.github.io/transpiler-mate/) |
 | [osc-metadata-client](https://github.com/Terradue/osc-metadata-client) | Open Science Catalog client | [Docs](https://terradue.github.io/osc-metadata-client/) |
 
 ## .NET Modules
