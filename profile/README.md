@@ -14,6 +14,7 @@ Browse the [repositories](https://terradue.github.io/).
 - [RFC Implementations](#rfc-implementations)
 - [EarthCODE](#earthcode)
 - [.NET Modules](#net-modules)
+- [Archived repositories]()
 
 ## CLI tools
 
@@ -92,8 +93,13 @@ Browse the [repositories](https://terradue.github.io/).
 
 | Project | What it provides | Documentation |
 | --- | --- | --- |
-| [transpiler-mate](https://github.com/Terradue/transpiler-mate) | Python API + CLI to extract `Schema.org/SoftwareApplication` Metadata from an annotated CWL document. | [Docs](https://terradue.github.io/transpiler-mate/) |
+| [transpiler-mate](https://github.com/Terradue/transpiler-mate) ARCHIVED | Python API + CLI to extract `Schema.org/SoftwareApplication` Metadata from an annotated CWL document. | [Docs](https://terradue.github.io/transpiler-mate/) |
 | [osc-metadata-client](https://github.com/Terradue/osc-metadata-client) | Open Science Catalog client | [Docs](https://terradue.github.io/osc-metadata-client/) |
+
+> [!WARNING]
+> ### Transpiler-Mate has moved
+>
+> What started as a CWL metadata conversion tool has evolved into a **modular, extensible ecosystem** under the [Transpiler-Mate organization](https://github.com/transpiler-mate).
 
 ## .NET Modules
 
@@ -106,7 +112,6 @@ Browse the [repositories](https://terradue.github.io/).
 | [DotNetGeoJson](https://github.com/Terradue/DotNetGeoJson) | GeoJSON serialization, deserialization, and conversion from GML and WKT | [README](https://github.com/Terradue/DotNetGeoJson#readme) |
 | [DotNetGeoserver](https://github.com/Terradue/DotNetGeoserver) | .NET library for managing requests to GeoServer | [README](https://github.com/Terradue/DotNetGeoserver#readme) |
 | [DotNetGithub](https://github.com/Terradue/DotNetGithub) | GitHub account integration for Terradue.Portal user profiles | [README](https://github.com/Terradue/DotNetGithub#readme) |
-| [DotNetHadoop](https://github.com/Terradue/DotNetHadoop) | .NET access to Hadoop features including HDFS and MapReduce (archived) | [README](https://github.com/Terradue/DotNetHadoop#readme) |
 | [dotnetinteractive](https://github.com/Terradue/dotnetinteractive) | .NET notebooks in Docker | [README](https://github.com/Terradue/dotnetinteractive#readme) |
 | [DotNetOgcModel](https://github.com/Terradue/DotNetOgcModel) | .NET classes for reading, writing, and manipulating XML documents based on OGC schemas | [README](https://github.com/Terradue/DotNetOgcModel#readme) |
 | [DotNetOgcOmGml](https://github.com/Terradue/DotNetOgcOmGml) | .NET classes representing OGC Observations & Measurements and GML XML | [Docs](https://github.com/Terradue/DotNetOgcOmGml/tree/develop/doc) |
@@ -122,7 +127,6 @@ Browse the [repositories](https://terradue.github.io/).
 | [DotNetOpenSearchTumblr](https://github.com/Terradue/DotNetOpenSearchTumblr) | OpenSearch access to the Tumblr API | [README](https://github.com/Terradue/DotNetOpenSearchTumblr#readme) |
 | [DotNetOpenSearchTwitter](https://github.com/Terradue/DotNetOpenSearchTwitter) | OpenSearch access to the Twitter API | [README](https://github.com/Terradue/DotNetOpenSearchTwitter#readme) |
 | [DotNetPortalAuthUmsso](https://github.com/Terradue/DotNetPortalAuthUmsso) | EO-SSO authentication support for Terradue.Portal | [README](https://github.com/Terradue/DotNetPortalAuthUmsso#readme) |
-| [DotNetPortalCloud](https://github.com/Terradue/DotNetPortalCloud) | Abstraction for cloud provisioning, networking, and storage operations (archived) | [README](https://github.com/Terradue/DotNetPortalCloud#readme) |
 | [DotNetPortalCore](https://github.com/Terradue/DotNetPortalCore) | Core CMS entities and interfaces for Terradue.Portal | [README](https://github.com/Terradue/DotNetPortalCore#readme) |
 | [DotNetPortalNews](https://github.com/Terradue/DotNetPortalNews) | Multi-source news support (Atom/RSS, Twitter, and Tumblr) for Terradue.Portal | [README](https://github.com/Terradue/DotNetPortalNews#readme) |
 | [DotNetSearch](https://github.com/Terradue/DotNetSearch) | Generic web API services and engines for implementing search functions | — |
@@ -133,3 +137,21 @@ Browse the [repositories](https://terradue.github.io/).
 | [DotNetTep](https://github.com/Terradue/DotNetTep) | .NET library providing Terradue TEP functionality | [README](https://github.com/Terradue/DotNetTep#readme) |
 | [DotNetTerraduePortal](https://github.com/Terradue/DotNetTerraduePortal) | Placeholder repository containing a license only | — |
 | [DotNetWebServiceModel](https://github.com/Terradue/DotNetWebServiceModel) | Web service interfaces and REST models for Terradue APIs | [README](https://github.com/Terradue/DotNetWebServiceModel#readme) |
+
+## Archived repositories
+
+| Project | What it provides |
+|---|---|
+| [abiquo-cli](https://github.com/Terradue/abiquo-cli) | jclouds-labs-cli is a command line tool that allows you to interact with jclouds LABS part of the library |
+| [cdab-testsuite](https://github.com/Terradue/cdab-testsuite) | Copernicus Sentinels Data Access Worldwide Benchmark Test Suite |
+| [dcs-insar-roipac](https://github.com/Terradue/dcs-insar-roipac) | Cloud processing with Envisat ASAR data and ROI_PAC |
+| [dcs-pf-asar](https://github.com/Terradue/dcs-pf-asar) | *No description provided.* |
+| [dcs-python-ndvi](https://github.com/Terradue/dcs-python-ndvi) | Developer Cloud Sandbox Python tutorial - Landsat NDVI |
+| [dcs-testsuite](https://github.com/Terradue/dcs-testsuite) | *No description provided.* |
+| [doc-tep-geohazards-arch](https://github.com/Terradue/doc-tep-geohazards-arch) | Geohazards Thematic Exploitation Platform architecture |
+| [doc-tep-geohazards-v2](https://github.com/Terradue/doc-tep-geohazards-v2) | *No description provided.* |
+| [DotNetHadoop](https://github.com/Terradue/DotNetHadoop) | *No description provided.* |
+| [DotNetPortalCloud](https://github.com/Terradue/DotNetPortalCloud) | *No description provided.* |
+| [dsi-tools](https://github.com/Terradue/dsi-tools) | Command Line Tools to interact with Zimory/T-Systems cloud REST server |
+| [jCloudSigma](https://github.com/Terradue/jCloudSigma) | ONE driver for CloudSigma |
+| [transpiler-mate](https://github.com/Terradue/transpiler-mate) | Python API + CLI to extract Schema.org/SoftwareApplication Metadata from an annotated CWL document and publish it as a Record on Invenio RDM |
