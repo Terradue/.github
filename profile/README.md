@@ -73,6 +73,7 @@ Repositories are grouped by purpose. **(fork)** identifies a GitHub fork; see ea
 | [pystac-ext-aeronet](https://github.com/Terradue/pystac-ext-aeronet) | Pystac implementation of the aeronet-stac-extension STAC extension | [Docs](https://terradue.github.io/pystac-ext-aeronet/) |
 | [pystac-ext-earthquake](https://github.com/Terradue/pystac-ext-earthquake) | Pystac implementation of the earthquake STAC extension | [Docs](https://terradue.github.io/pystac-ext-earthquake/) |
 | [pystac-ext-insar](https://github.com/Terradue/pystac-ext-insar) | Pystac implementation of the insar STAC extension | [Docs](https://terradue.github.io/pystac-ext-insar/) |
+| [pystac-ext-ogc-record](https://github.com/Terradue/pystac-ext-ogc-record) | OGC API Records adapter for PySTAC | [Docs](https://terradue.github.io/pystac-ext-ogc-record/) |
 | [pystac-ext-osc](https://github.com/Terradue/pystac-ext-osc) | Pystac implementation of the Open Science Catalogue STAC extension | [Docs](https://terradue.github.io/pystac-ext-osc/) |
 | [pystac-ext-processing](https://github.com/Terradue/pystac-ext-processing) | Python implementation of the STAC Processing Extension Specification | [Docs](https://terradue.github.io/pystac-ext-processing/) |
 | [pystac-ext-product](https://github.com/Terradue/pystac-ext-product) | Python implementation of the STAC Product Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-product/) |
