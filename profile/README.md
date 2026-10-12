@@ -70,6 +70,7 @@ Repositories are grouped by purpose. **(fork)** identifies a GitHub fork; see ea
 
 | Project | What it provides | Documentation |
 | --- | --- | --- |
+| [pystac-ext-access](https://github.com/Terradue/pystac-ext-access) | Python implementation of the STAC Access Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-access/) |
 | [pystac-ext-aeronet](https://github.com/Terradue/pystac-ext-aeronet) | Pystac implementation of the aeronet-stac-extension STAC extension | [Docs](https://terradue.github.io/pystac-ext-aeronet/) |
 | [pystac-ext-earthquake](https://github.com/Terradue/pystac-ext-earthquake) | Pystac implementation of the earthquake STAC extension | [Docs](https://terradue.github.io/pystac-ext-earthquake/) |
 | [pystac-ext-generator](https://github.com/Terradue/pystac-ext-generator) | Python CLI that generates an independently importable, typed PySTAC extension module from a STAC Extension JSON Schema | [Doc](https://terradue.github.io/pystac-ext-generator/) |
