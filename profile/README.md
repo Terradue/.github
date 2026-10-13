@@ -45,6 +45,8 @@ Repositories are grouped by purpose. **(fork)** identifies a GitHub fork; see ea
 
 ## STAC
 
+Browse the [STAC extensions overview](stac-extensions.md) for specification metadata and PySTAC implementations.
+
 ### API implementations
 
 | Project | What it provides | Documentation |
