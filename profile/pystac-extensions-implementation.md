@@ -14,4 +14,4 @@
 | [pystac-ext-sentinel-1](https://github.com/Terradue/pystac-ext-sentinel-1) | Python implementation of the STAC Sentinel-1 Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-sentinel-1/) |
 | [pystac-ext-sentinel-2](https://github.com/Terradue/pystac-ext-sentinel-2) | Python implementation of the STAC Sentinel-2 Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-sentinel-2/) |
 | [pystac-ext-themes](https://github.com/Terradue/pystac-ext-themes) | Python implementation of the STAC Themes Extension Specification  | [Docs](https://terradue.github.io/pystac-ext-themes/) |
-| [pystac-ext-vcs](https://github.com/Terradue/pystac-ext-themes) | Python implementation of the STAC VCS Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-vcs/) |
+| [pystac-ext-vcs](https://github.com/Terradue/pystac-ext-vcs) | Python implementation of the STAC VCS Extension Specification for pystac | [Docs](https://terradue.github.io/pystac-ext-vcs/) |
